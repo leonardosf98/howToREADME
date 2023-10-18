@@ -27,7 +27,7 @@ Readme criado para ajudar colegas de sala a criarem seus perfis no github e subi
 
 - Esse é o lugar onde seus arquivos do site ficarão, o index.html (páginas html que você fizer), o styles.css (página da folha de estilos) e caso precise colocar imagens, ficarão aqui também!
 
-- Primeiramente clique em "New repository" 
+- Primeiramente clique em "Create repository" 
 
 ![Página de usuário novo do github](assets/welcome-github-new-user-page.png)
 
