@@ -13,15 +13,24 @@ Readme criado para ajudar colegas de sala a criarem seus perfis no github e subi
 
 ![Página de e-mail do github](assets/welcome-github-enter-email.png)
 
+Fonte: https://learn.microsoft.com/pt-br/visualstudio/version-control/git-create-github-account?view=vs-2022
+
+
 - Após digita o e-mail ele pedirá para digitar a senha e um nome de usuário
 
 - Abaixo tem a opção de receber ou não anúncios e atualizações de produtos, digite "y" para receber e "n" para não receber
 
 ![Página da senha do github](assets/welcome-github-create-password-enter-username.png)
 
+Fonte: https://learn.microsoft.com/pt-br/visualstudio/version-control/git-create-github-account?view=vs-2022
+
+
 - Logo após ele pedirá uma verificação da sua conta e enviará um código para o e-mail cadastrado, é só digitar o código nas caixas
 
 ![Página de digitação do código do github](assets/welcome-github-enter-launch-code.png)
+
+Fonte: https://learn.microsoft.com/pt-br/visualstudio/version-control/git-create-github-account?view=vs-2022
+
 
 ## Crie um novo repositório
 
@@ -30,6 +39,8 @@ Readme criado para ajudar colegas de sala a criarem seus perfis no github e subi
 - Primeiramente clique em "Create repository" 
 
 ![Página de usuário novo do github](assets/welcome-github-new-user-page.png)
+
+Fonte: https://learn.microsoft.com/pt-br/visualstudio/version-control/git-create-github-account?view=vs-2022
 
 - Logo abrirá uma página parecida com essa, preencha o nome do repositorio com o nome do projeto
 
